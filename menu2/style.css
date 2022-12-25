@@ -39,8 +39,9 @@ a{
     border-radius: .8rem;
 }
 
-/* Estilo para Menu 1 */
+/* Estilo para Menu 2 */
 nav{
+    margin-top: 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,16 +50,9 @@ nav{
     padding: 0 2.4rem;
 }
 
-nav{
-    margin-top: 2rem;
-}
-
 ul{
     display: flex;
     align-items: center;
-    list-style: none;
     gap: 3rem;
+    list-style: none;
 }
-
-
-
