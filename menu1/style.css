@@ -39,6 +39,7 @@ a{
     border-radius: .8rem;
 }
 
+/* Estilo para Menu 1 */
 nav{
     display: flex;
     justify-content: space-between;
@@ -58,5 +59,6 @@ ul{
     list-style: none;
     gap: 3rem;
 }
+
 
 
