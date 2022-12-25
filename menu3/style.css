@@ -20,7 +20,7 @@
 
 body{
     font-size: 1.6rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 a{
@@ -39,11 +39,12 @@ a{
     border-radius: .8rem;
 }
 
-/* Estilo para Menu 1 */
+/* Estilo para Menu 3 */
 nav{
     margin-top: 2rem;
     display: flex;
     justify-content: space-between;
+    flex-direction: row-reverse;
     align-items: center;
     background-color: var(--nav-bg-color);
     height: 6rem;
@@ -56,6 +57,3 @@ ul{
     list-style: none;
     gap: 3rem;
 }
-
-
-
